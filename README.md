@@ -1,2 +1,3 @@
 # demo
-this is demo one 
+this is a demo 
+for practing and revising the git 
